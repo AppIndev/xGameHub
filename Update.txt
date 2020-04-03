@@ -1,0 +1,1 @@
+1;https://github.com/AppIndev/aPlayStore/raw/master/aPlayStore.apk;1;//v,f,h;
