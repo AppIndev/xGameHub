@@ -1,6 +1,16 @@
 {
-  "app_name":"Xgames",
-  "app_version":"1",
-  "app_data":"https://github.com/AppIndev/xGameHub/new/master",
-  "app_apk":"https://github.com/AppIndev/xGameHub/new/master"
+  "app_name": "Xgames",
+  "app_version": "1",
+  "app_version_name": "1.01",
+  "app_url": "1.01",
+  "app_thumbnail": "1.01",
+  "app_description": "Game collections with multiple",
+  "app_data": "https://github.com/AppIndev/xGameHub/new/master",
+  "app_file_web": "1.01",
+  "app_file_android": "https://github.com/AppIndev/xGameHub/new/master",
+  "app_file_windows": "https://github.com/AppIndev/xGameHub/new/master",
+  "app_file_macos": "https://github.com/AppIndev/xGameHub/new/master",
+  "app_file_ios": "https://github.com/AppIndev/xGameHub/new/master",
+  "app_store_android": "https://github.com/AppIndev/xGameHub/new/master",
+  "app_store_ios": "https://github.com/AppIndev/xGameHub/new/master"
 }
