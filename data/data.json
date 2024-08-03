@@ -229,6 +229,13 @@
       "tag": "educational",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=educational&page=1",
       "cache": "604800"
-    }
+    },
+	
+	{
+      "title": "gamemonetize 2",
+      "tag": "arcade",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=5&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "cache": "604800"
+    },
   ]
 }
