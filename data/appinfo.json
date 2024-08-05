@@ -15,5 +15,12 @@
   "app_store_ios": "",
   "app_timestamp": "",
   "email_support": "",
-  "app_support": "https://webgamehub.blogspot.com"
+  "app_support": "https://webgamehub.blogspot.com",
+  "source_provider": [
+    {"name":"Gamemonetize", "value":"gamemonetize"},
+    {"name":"Gamepix", "value":"gamepix"},
+    {"name":"Yandex", "value":"yandex"},
+    {"name":"Customizer", "value":"customizer"},
+    {"name":"All", "value":"all"}
+  ]
 }
