@@ -21,6 +21,7 @@
     {"name":"Gamepix", "value":"gamepix"},
     {"name":"Yandex", "value":"yandex"},
     {"name":"Customizer", "value":"customizer"},
+    {"name":"Customizer2", "value":"customizer2"},    
     {"name":"All", "value":"all"}
   ]
 }
