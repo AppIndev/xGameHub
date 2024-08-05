@@ -1,10 +1,9 @@
 {
 "source_provider": [
-  {"gamemonetize":"gamemonetize"},
-  {"gamepix":"gamepix"},
-  {"yandex":"yandex"}, 
-  {"customizer":"customizer"},   
-   {"all":"All"}
+  {"name":"Gamemonetize", "value":"gamemonetize"},
+  {"name":"Gamepix", "value":"gamepix"},
+  {"name":"Yandex", "value":"yandex"},
+  {"name":"All", "value":"all"}
 ]
 ,	
   "start": [
