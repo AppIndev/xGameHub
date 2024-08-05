@@ -1,127 +1,135 @@
 {
+"source_provider": [
+  {"gamemonetize":"gamemonetize"},
+  {"gamepix":"gamepix"},
+  {"yandex":"yandex"}, 
+  {"customizer":"customizer"},   
+   {"all":"All"}
+]
+,	
   "start": [
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "popular",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=All&type=html5&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "recent",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=All&type=html5&popularity=newest&company=All&amount=20",
       "cache": "0"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "arcade",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=5&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "puzzle",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=13&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "action",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=0&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "adventure",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=4&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "boys",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=7&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "girls",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=10&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "sports",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=17&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "multiplayer",
       "url": "https://gamemonetize.com/rssfeed.php?format=json&category=12&type=mobile&popularity=mostplayed&company=All&amount=20",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "popular",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "recent",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&order=pubdate&page=1",
       "cache": "0"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "arcade",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=arcade&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "puzzle",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=puzzle&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "action",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=action&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "adventure",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=adventure&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "trivia",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=trivia&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "kids",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=kids&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "sports",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=sports&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "multiplayer",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=two-player&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "educational",
       "url": "https://feeds.gamepix.com/v2/json?pagination=24&category=educational&page=1",
       "cache": "604800"
@@ -129,105 +137,153 @@
   ],
   "download": [
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "arcade",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=5&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=5&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "puzzle",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=13&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=13&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "action",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=0&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=0&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "adventure",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=4&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=4&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "boys",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=7&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=7&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "girls",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=10&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=10&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "sports",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=17&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=17&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamemonetize",
+      "title": "gamemonetize-1",
       "tag": "multiplayer",
-      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=12&type=mobile&popularity=mostplayed&company=All&amount=1000",
+      "url": "https://gamemonetize.com/rssfeed.php?format=json&category=12&type=mobile&popularity=mostplayed&company=All&amount=500",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "arcade",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=arcade&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "puzzle",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=puzzle&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "action",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=action&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "adventure",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=adventure&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "trivia",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=trivia&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "kids",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=kids&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "sports",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=sports&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "multiplayer",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=two-player&page=1",
       "cache": "604800"
     },
     {
-      "title": "gamepix",
+      "title": "gampix",
       "tag": "educational",
       "url": "https://feeds.gamepix.com/v2/json?pagination=96&category=educational&page=1",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "arcade",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-arcade-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "puzzle",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-puzzle-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "action",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-action-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "adventure",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-adventure-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "boys",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-boys-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "girls",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-girls-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "sports",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-sports-2.json",
+      "cache": "604800"
+    },
+    {
+      "title": "gamemonetize-2",
+      "tag": "multiplayer",
+      "url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/gamemonetize-multiplayer-2.json",
       "cache": "604800"
     }
   ]
