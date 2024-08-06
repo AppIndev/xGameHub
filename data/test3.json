@@ -1,6 +1,6 @@
 {
   "app_provider_1": {
-    "app_name": "xGameHub2",
+    "app_name": "xGameHub-1",
     "app_release": "2",
     "app_version": "1.0.2",
     "app_url": "https://webgamehub.blogspot.com",
@@ -22,7 +22,7 @@
     "app_server_prime": "app_server_prime_1"
   },
   "app_provider_2": {
-    "app_name": "xGameHub2",
+    "app_name": "xGameHub-2",
     "app_release": "2",
     "app_version": "1.0.2",
     "app_url": "https://webgamehub.blogspot.com",
