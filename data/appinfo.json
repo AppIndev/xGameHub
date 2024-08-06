@@ -16,6 +16,8 @@
   "app_timestamp": "",
   "email_support": "",
   "app_support": "https://webgamehub.blogspot.com",
+  "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-github.json",
+  "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
   "source_provider": [
     {"name":"Gamemonetize", "value":"gamemonetize"},
     {"name":"Gamepix", "value":"gamepix"},
