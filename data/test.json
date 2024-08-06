@@ -36,21 +36,5 @@
       "name": "All",
       "value": "all"
     }
-  ],
-  "app_server_provider": [
-    {
-      "app_thumbnail": "https://cdn-icons-png.flaticon.com/128/2780/2780137.png",
-      "app_data_url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-github.json",
-      "app_file_web": "https://webgamehub.blogspot.com",
-      "app_file_android": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-android.apk",
-      "app_file_windows": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe"
-    },
-    {
-      "app_thumbnail": "https://cdn-icons-png.flaticon.com/128/2780/2780137.png",
-      "app_data_url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-github.json",
-      "app_file_web": "https://webgamehub.blogspot.com",
-      "app_file_android": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-android.apk",
-      "app_file_windows": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe"
-    }
   ]
 }
