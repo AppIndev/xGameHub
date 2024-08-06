@@ -1,5 +1,5 @@
 {
-  "app_name": "xGameHubo",
+  "app_name": "xGameHub2",
   "app_release": "2",
   "app_version": "1.0.2",
   "app_url": "https://webgamehub.blogspot.com",
@@ -18,23 +18,11 @@
   "app_support": "https://webgamehub.blogspot.com",
   "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-github.json",
   "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
-  "app_server_main": "app_server_1_main",
+  "app_server_main":"app_server_1",
   "source_provider": [
-    {
-      "name": "Gamemonetize",
-      "value": "gamemonetize"
-    },
-    {
-      "name": "Gamepix",
-      "value": "gamepix"
-    },
-    {
-      "name": "Yandex",
-      "value": "yandex"
-    },
-    {
-      "name": "All",
-      "value": "all"
-    }
+    {"name":"Gamemonetize", "value":"gamemonetize"},
+    {"name":"Gamepix", "value":"gamepix"},
+    {"name":"Yandex", "value":"yandex"},
+    {"name":"All", "value":"all"}
   ]
 }
