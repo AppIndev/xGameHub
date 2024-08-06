@@ -18,12 +18,24 @@
   "app_support": "https://webgamehub.blogspot.com",
   "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/appinfo.json",
   "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
-  "app_server_prime":"app_server_prime_1",
+  "app_server_prime": "app_server_prime_1",
   "source_provider": [
-    {"name":"Gamemonetize", "value":"gamemonetize"},
-    {"name":"Gamepix", "value":"gamepix"},
-    {"name":"Yandex", "value":"yandex"},
-    {"name":"All", "value":"all"}
+    {
+      "name": "Gamemonetize",
+      "value": "gamemonetize"
+    },
+    {
+      "name": "Gamepix",
+      "value": "gamepix"
+    },
+    {
+      "name": "Yandex",
+      "value": "yandex"
+    },
+    {
+      "name": "All",
+      "value": "all"
+    }
   ],
   "app_server_provider": [
     {
@@ -31,14 +43,16 @@
       "app_data_url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-github.json",
       "app_file_web": "https://webgamehub.blogspot.com",
       "app_file_android": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-android.apk",
-      "app_file_windows": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe"
+      "app_file_windows": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe",
+      "app_file_macos": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe"
     },
     {
       "app_thumbnail": "https://cdn-icons-png.flaticon.com/128/2780/2780137.png",
       "app_data_url": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-github.json",
       "app_file_web": "https://webgamehub.blogspot.com",
       "app_file_android": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-android.apk",
-      "app_file_windows": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe"
+      "app_file_windows": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe",
+      "app_file_macos": "https://github.com/AppIndev/xGameHub/raw/master/xGameHub-windows.exe"
     }
-  ]  
+  ]
 }
