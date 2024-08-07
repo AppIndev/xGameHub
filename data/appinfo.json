@@ -19,7 +19,8 @@
     "app_support": "https://webgamehub.blogspot.com",
     "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/appinfo.json",
     "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
-    "app_server_prime": "app_server_prime_1"
+    "app_server_prime": "app_server_prime_1",
+    "app_play_modes": "single"
   },
   "app_provider_2": {
     "app_name": "GameHubo-2",
@@ -41,7 +42,8 @@
     "app_support": "https://webgamehub.blogspot.com",
     "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/appinfo.json",
     "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
-    "app_server_prime": "app_server_prime_1"
+    "app_server_prime": "app_server_prime_1",
+    "app_play_modes": "single"    
   },
   "source_provider": [
     {
