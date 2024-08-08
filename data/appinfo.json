@@ -43,16 +43,16 @@
     "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/appinfo.json",
     "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
     "app_server_prime": "app_server_prime_1",
-    "app_play_modes": "multiple"    
+    "app_play_modes": "multiple"
   },
   "source_provider": [
     {
-      "name": "Gamemonetize",
-      "value": "gamemonetize"
-    },
-    {
       "name": "Gamepix",
       "value": "gamepix"
+    },
+    {
+      "name": "Gamemonetize",
+      "value": "gamemonetize"
     },
     {
       "name": "Yandex",
