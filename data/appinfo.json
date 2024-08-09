@@ -20,7 +20,8 @@
     "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/appinfo.json",
     "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
     "app_server_prime": "app_server_prime_1",
-    "app_play_modes": "multiple"
+    "app_play_modes": "multiple",
+    "app_data_init": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/data-init.json"
   },
   "app_provider_2": {
     "app_name": "GameHubo-2",
@@ -43,7 +44,9 @@
     "app_server_1": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/data/appinfo.json",
     "app_server_2": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/appinfo.json",
     "app_server_prime": "app_server_prime_1",
-    "app_play_modes": "multiple"
+    "app_play_modes": "multiple",
+    "app_data_init": "https://pub-5172884e1d424b738de2dc1b97b5fdc2.r2.dev/data-init.json"
+
   },
   "source_provider": [
     {
