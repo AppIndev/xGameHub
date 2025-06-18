@@ -5,14 +5,14 @@
     "id": "black-hole",
     "title": "black-hole",
     "description": "black-hole",
-    "thumbnail": "https://github.com/AppIndev/xGameHub/thumbnail/black-hole.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/black-hole.png",
     "tags": "puzzle"
   },
   {
     "id": "2048",
     "title": "2048",
     "description": "2048",
-    "thumbnail": "https://github.com/AppIndev/xGameHub/thumbnail/2048.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/2048.png",
     "tags": "puzzle"
   }
 ]
