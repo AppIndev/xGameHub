@@ -1,4 +1,6 @@
-[
+{
+  "title": "gamemix",
+  "results": [
   {
     "gameid": "black-hole",
     "title": "black-hole",
@@ -14,3 +16,4 @@
     "tags": "puzzle"
   }
 ]
+}
