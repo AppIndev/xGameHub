@@ -7,7 +7,7 @@
 			"title": "black-hole",
 			"description": "black-hole",
 			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/black-hole.png",
-			"tags": "puzzle",
+			"tags": "all, new, puzzle",
 			"timestamp": 201
 		},
 		{
@@ -15,7 +15,7 @@
 			"title": "2048",
 			"description": "2048",
 			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/2048.png",
-			"tags": "puzzle",
+			"tags": "all, puzzle",
 			"timestamp": 0
 		},
 		{
@@ -23,7 +23,7 @@
 			"title": "Crappy Bird",
 			"description": "Flappy Bird",
 			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/crappy_bird.png",
-			"tags": "puzzle",
+			"tags": "all, action",
 			"timestamp": 0
 		}
 	]
