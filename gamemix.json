@@ -25,6 +25,14 @@
 			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/crappy_bird.png",
 			"tags": "all, action, memory",
 			"timestamp": 0
+		},
+		{
+			"id": "1010",
+			"title": "1010",
+			"description": "Block game puzzle",
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/1010.png",
+			"tags": "all, puzzle",
+			"timestamp": 0
 		}
 	]
 }
