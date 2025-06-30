@@ -1,5 +1,5 @@
 {
-  "app_name": "GameMix",
+  "app_name": "GameKup",
   "app_version": 2,
   "data_version": 14,
   "app_version_name": "1.0.2",
@@ -8,60 +8,59 @@
   "app_ios_url": "",
   "app_thumbnail": "",
   "app_category": "",
-  "app_description":"",
+  "app_description": "",
   "app_base_url": "",
   "app_promote": [
-  {
-    "id": "banner_1",
-    "title": "google",
-    "type": "banner",
-    "link": "https://google.com",
-    "image": "https://banner4u.net/image/catalog/demo/banners/2283_020.gif"
-  },
-  {
-    "id": "banner_2",
-    "title": "bing",
-    "type": "banner",
-    "link": "https://bing.com",
-    "image": "https://banner4u.net/image/catalog/demo/banners/2290_002.gif"
-  },
-  {
-    "id": "banner_3",
-    "title": "yahoo",
-    "type": "banner",
-    "link": "https://yahoo.com",
-    "image": "https://banner4u.net/image/catalog/demo/banners/2286_004a.gif"
-  },
-
     {
-			"id": "black-hole",
-			"title": "black-hole",
+      "id": "banner_1",
+      "title": "google",
+      "type": "banner",
+      "link": "https://google.com",
+      "thumbnail": "https://banner4u.net/image/catalog/demo/banners/2283_020.gif"
+    },
+    {
+      "id": "banner_2",
+      "title": "bing",
+      "type": "banner",
+      "link": "https://bing.com",
+      "thumbnail": "https://banner4u.net/image/catalog/demo/banners/2290_002.gif"
+    },
+    {
+      "id": "banner_3",
+      "title": "yahoo",
+      "type": "banner",
+      "link": "https://yahoo.com",
+      "thumbnail": "https://banner4u.net/image/catalog/demo/banners/2286_004a.gif"
+    },
+    {
+      "id": "black-hole",
+      "title": "black-hole",
       "type": "list",
       "link": "https://google.com",
-			"description": "black-hole",
-			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/black-hole.png",
-			"tags": "all, new, puzzle",
-			"timestamp": 201
-		},
-   {
-			"id": "2048",
-			"title": "2048",
+      "description": "black-hole",
+      "thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/black-hole.png",
+      "tags": "all, new, puzzle",
+      "timestamp": 201
+    },
+    {
+      "id": "2048",
+      "title": "2048",
       "type": "list",
-      "link": "https://google.com",
-			"description": "2048",
-			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/2048.png",
-			"tags": "all, puzzle",
-			"timestamp": 0
-		},
-		{
-			"id": "crappy_bird",
-			"title": "Crappy Bird",
+      "link": "https://bing.com",
+      "description": "2048",
+      "thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/2048.png",
+      "tags": "all, puzzle",
+      "timestamp": 0
+    },
+    {
+      "id": "crappy_bird",
+      "title": "Crappy Bird",
       "type": "list",
-			"description": "Flappy Bird",
-      "link": "https://google.com",      
-			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/crappy_bird.png",
-			"tags": "all, action, memory",
-			"timestamp": 0
-		}
- ]
+      "description": "Flappy Bird",
+      "link": "https://yahoo.com",
+      "thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/crappy_bird.png",
+      "tags": "all, action, memory",
+      "timestamp": 0
+    }
+  ]
 }
