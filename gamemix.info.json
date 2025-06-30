@@ -31,6 +31,37 @@
     "type": "banner",
     "link": "https://yahoo.com",
     "image": "https://banner4u.net/image/catalog/demo/banners/2286_004a.gif"
-  }
+  },
+
+    {
+			"id": "black-hole",
+			"title": "black-hole",
+      "type": "list",
+      "link": "https://google.com",
+			"description": "black-hole",
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/black-hole.png",
+			"tags": "all, new, puzzle",
+			"timestamp": 201
+		},
+   {
+			"id": "2048",
+			"title": "2048",
+      "type": "list",
+      "link": "https://google.com",
+			"description": "2048",
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/2048.png",
+			"tags": "all, puzzle",
+			"timestamp": 0
+		},
+		{
+			"id": "crappy_bird",
+			"title": "Crappy Bird",
+      "type": "list",
+			"description": "Flappy Bird",
+      "link": "https://google.com",      
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/crappy_bird.png",
+			"tags": "all, action, memory",
+			"timestamp": 0
+		}
  ]
 }
