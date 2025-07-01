@@ -41,6 +41,14 @@
 			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/tetris-matrix.png",
 			"tags": "all, puzzle",
 			"timestamp": 0
-		}		
+		},
+			{
+			"id": "net-game",
+			"title": "Net Link",
+			"description": "Connect link",
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/net-game.png",
+			"tags": "all, puzzle",
+			"timestamp": 0
+		}	
 	]
 }
