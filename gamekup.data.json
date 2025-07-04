@@ -49,6 +49,24 @@
 			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/net-game.png",
 			"tags": "all, puzzle",
 			"timestamp": 0
-		}	
+		},
+
+		{
+			"id": "word-connect",
+			"title": "Word Connect",
+			"description": "Connect letters",
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/word-connect.png",
+			"tags": "all, puzzle",
+			"timestamp": 0
+		},
+			{
+			"id": "packabunchas",
+			"title": "Pack Blocks",
+			"description": "Put blocks",
+			"thumbnail": "https://raw.githubusercontent.com/AppIndev/xGameHub/master/thumbnail/packabunchas.png",
+			"tags": "all, puzzle",
+			"timestamp": 0
+		}
+		
 	]
 }
